@@ -6,6 +6,7 @@ body {
     margin: 0;
     min-height: 5000px;
     background-color: #EEE;
+    font-size: 20px;
 }
 .scroller {
     background-color: #0075FF;
